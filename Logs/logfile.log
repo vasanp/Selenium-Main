@@ -1,1 +1,113 @@
 2022-08-19 16:41:18,895-INFO-test_home-test_home-Login and Logout working
+2022-08-19 16:44:20,073-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-19 16:44:25,162-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-19 16:45:38,297-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-19 16:45:40,340-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-19 16:45:40,390-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-19 16:47:46,156-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-19 16:47:48,221-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-19 16:47:48,269-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-19 16:49:27,144-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-19 16:49:29,203-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-19 16:49:29,254-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-19 16:50:20,324-INFO-SearchFilter-search_item-searched item successfully
+2022-08-19 16:50:22,754-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 10:40:26,403-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 10:40:31,496-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 10:40:46,651-INFO-Cart-add_items_in_cart-adding items in cart successfull
+2022-08-22 10:41:11,417-INFO-test_home-test_home-Login and Logout working
+2022-08-22 10:41:41,904-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 10:41:43,375-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 10:41:43,444-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 10:42:12,534-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 10:42:14,493-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 10:42:59,721-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 10:43:00,602-INFO-WishList-verify_items_in_wishlist-successfully verified items in wishlist
+2022-08-22 10:49:28,298-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 10:49:33,382-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 10:50:23,757-INFO-test_home-test_home-Login and Logout working
+2022-08-22 10:50:54,279-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 10:50:55,695-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 10:50:55,758-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 10:51:25,536-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 10:51:27,437-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 10:52:12,581-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 10:52:13,477-INFO-WishList-verify_items_in_wishlist-successfully verified items in wishlist
+2022-08-22 11:07:28,198-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 11:07:33,283-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 11:08:12,549-INFO-test_home-test_home-Login and Logout working
+2022-08-22 11:08:43,483-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 11:08:44,918-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 11:08:44,970-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 11:09:22,592-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 11:09:24,584-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 11:10:12,134-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 11:22:05,641-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 11:22:10,720-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 11:22:25,863-INFO-Cart-add_items_in_cart-adding items in cart successfull
+2022-08-22 11:22:50,270-INFO-test_home-test_home-Login and Logout working
+2022-08-22 11:23:20,265-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 11:23:22,248-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 11:23:22,315-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 11:23:52,102-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 11:23:53,933-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 11:24:39,825-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 11:24:40,736-INFO-WishList-verify_items_in_wishlist-successfully verified items in wishlist
+2022-08-22 11:27:38,982-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 11:27:44,070-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 11:48:32,035-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 11:48:37,121-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 11:53:24,456-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 11:53:29,553-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 11:53:44,709-INFO-Cart-add_items_in_cart-adding items in cart successfull
+2022-08-22 11:54:09,425-INFO-test_home-test_home-Login and Logout working
+2022-08-22 11:54:39,720-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 11:54:41,298-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 11:54:41,348-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 11:55:10,469-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 11:55:11,844-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 11:55:57,144-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 12:05:19,857-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 12:05:24,931-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 12:06:28,613-INFO-test_home-test_home-Login and Logout working
+2022-08-22 12:07:11,528-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 12:07:13,543-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 12:07:13,614-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 12:08:17,907-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 12:08:19,286-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 12:09:10,522-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 12:09:11,401-INFO-WishList-verify_items_in_wishlist-successfully verified items in wishlist
+2022-08-22 12:17:06,485-INFO-test_home-test_home-Login and Logout working
+2022-08-22 12:17:58,953-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 12:18:04,051-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 12:47:59,598-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 12:48:04,699-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 12:48:55,341-INFO-test_home-test_home-Login and Logout working
+2022-08-22 12:49:25,168-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 12:49:26,601-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 12:49:26,666-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 12:49:57,989-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 12:49:59,775-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 12:50:44,959-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 12:52:45,774-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 12:52:50,851-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 12:53:41,450-INFO-test_home-test_home-Login and Logout working
+2022-08-22 12:54:11,488-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 12:54:12,893-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 12:54:12,949-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 12:54:42,368-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 12:54:44,743-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 12:55:29,921-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 13:14:10,576-INFO-test_home-test_home-Login and Logout working
+2022-08-22 13:17:22,516-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 13:17:30,191-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 13:18:25,304-INFO-test_home-test_home-Login and Logout working
+2022-08-22 13:19:01,616-INFO-ManageAddress-visit_manage_address-successfully visited managed address
+2022-08-22 13:19:03,574-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 13:19:03,648-INFO-ManageAddress-add_a_new_address-successfully visited managed address
+2022-08-22 13:19:34,874-INFO-SearchFilter-search_item-searched item successfully
+2022-08-22 13:19:37,408-INFO-SearchFilter-filter_item-filtered item successfully
+2022-08-22 13:20:30,958-INFO-WishList-add_items_to_wishlist-successfully added items to list
+2022-08-22 13:32:42,671-INFO-Cart-select_grocery-selecting grocery successfully
+2022-08-22 13:32:47,780-INFO-Cart-enter_pincode-enter pincode successfully
+2022-08-22 13:33:02,958-INFO-Cart-add_items_in_cart-adding items in cart successfull

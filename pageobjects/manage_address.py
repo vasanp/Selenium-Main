@@ -111,7 +111,6 @@ class ManageAddress():
 
             ManageAddress.log.info("successfully visited managed address")
 
-            self.driver.quit()
 
         except (StaleElementReferenceException, TimeoutException):
             print("Failed to click in add new address")
